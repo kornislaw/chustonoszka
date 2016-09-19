@@ -1,0 +1,11 @@
+{ 
+    "index": { 
+        "style": "styles"
+    },
+    "index2": { 
+        "style": "band"
+    },
+    "index3": { 
+        "style": "startup"
+    } 
+} 
